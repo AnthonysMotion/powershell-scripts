@@ -1,0 +1,6 @@
+SiteUrl,Title,Template,Owner,StorageQuotaMB,TimeZoneId
+https://contoso.sharepoint.com/sites/FinancePortal,Finance Portal,STS#3,admin@contoso.com,2048,4
+https://contoso.sharepoint.com/sites/HRHub,HR Hub,STS#3,hr.manager@contoso.com,1024,4
+https://contoso.sharepoint.com/sites/ITProjects,IT Projects,STS#3,it.owner@contoso.com,3072,4
+https://contoso.sharepoint.com/sites/MarketingTeam,Marketing Team,STS#3,marketing.lead@contoso.com,2048,4
+https://contoso.sharepoint.com/sites/ResearchLab,Research Lab,STS#3,research.head@contoso.com,4096,4
